@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying in Japan Digital University
+- 🔭 I’m currently studying at Japan Digital University
 - 🌱 I’m currently learning PHP, SQL, NODE.JS and so much more
+- 📫 How to reach me: kho-ja.netlify.app
+
 <!--
 **kho-ja/kho-ja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
